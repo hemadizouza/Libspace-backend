@@ -36,8 +36,8 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/Mayankkumar1234/My-LibSpace
-    cd My-LibSpace
+    git clone https://github.com/hemadizouza/Libspace-backend
+    cd LibSpace-backend
     ```
 
 2.  **Install dependencies**
